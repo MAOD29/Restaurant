@@ -1,3 +1,3 @@
-##Sistema de restaurant 
+Sistema de restaurant 
 
-#sistema de recepción pedidos para envíos a domicilio
+sistema de recepción pedidos para envíos a domicilio
